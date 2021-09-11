@@ -1,4 +1,4 @@
 {
-    "token": "INSERT_TOKEN_HERE",
+    "token": process.env.Token,
     "prefix": "!"
 }
